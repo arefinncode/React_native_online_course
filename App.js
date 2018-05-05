@@ -12,8 +12,12 @@ import {
     Platform,
     StyleSheet,
     Text,
-    View
+    View,
+    TextInput,
+    Button
 } from 'react-native';
+
+import ListItem from './src/co'
 import { AppRegistry, Image } from 'react-native';
 
 
